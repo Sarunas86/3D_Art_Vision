@@ -128,7 +128,7 @@ Material:
     - _UseShadowThreshold: 0
     - _WaveAmplitude: 17.85
     - _WaveScale: 0.414
-    - _WaveSpeed: 0.064
+    - _WaveSpeed: 0.15
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
