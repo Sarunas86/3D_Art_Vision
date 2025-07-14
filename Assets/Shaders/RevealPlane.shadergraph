@@ -623,7 +623,7 @@
     "m_Type": "UnityEditor.ShaderGraph.Vector1MaterialSlot",
     "m_ObjectId": "58b68edf9d944c30abd83d803194ec11",
     "m_Id": 0,
-    "m_DisplayName": "Float",
+    "m_DisplayName": "Transition",
     "m_SlotType": 1,
     "m_Hidden": false,
     "m_ShaderOutputName": "Out",
@@ -976,10 +976,10 @@
     "m_Guid": {
         "m_GuidSerialized": "9a2857a8-ac67-4e75-a1c2-6aba28a3b031"
     },
-    "m_Name": "Float",
+    "m_Name": "Transition",
     "m_DefaultRefNameVersion": 1,
-    "m_RefNameGeneratedByDisplayName": "Float",
-    "m_DefaultReferenceName": "_Float",
+    "m_RefNameGeneratedByDisplayName": "Transition",
+    "m_DefaultReferenceName": "_Transition",
     "m_OverrideReferenceName": "",
     "m_GeneratePropertyBlock": true,
     "m_UseCustomSlotLabel": false,

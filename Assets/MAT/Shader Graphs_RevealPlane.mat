@@ -77,7 +77,7 @@ Material:
     - _EnableBlendModePreserveSpecularLighting: 0
     - _EnableFogOnTransparent: 0
     - _ExcludeFromTUAndAA: 0
-    - _Float: 2
+    - _Float: 1.58
     - _OpaqueCullMode: 2
     - _PerPixelSorting: 0
     - _RenderQueueType: 4
@@ -91,6 +91,7 @@ Material:
     - _StencilWriteMaskDistortionVec: 4
     - _StencilWriteMaskMV: 43
     - _SurfaceType: 1
+    - _Transition: 0
     - _TransparentBackfaceEnable: 0
     - _TransparentCullMode: 2
     - _TransparentDepthPostpassEnable: 0
